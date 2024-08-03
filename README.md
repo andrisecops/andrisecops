@@ -26,6 +26,18 @@ Below is a list of Hall of Fame acknowledgments where my contributions to cybers
 | ![WelsFargo](https://img.shields.io/badge/-WelsFargo-brown?style=plastic&logo=WelsFargo&logoColor=white) | [Wells Fargo Bank](https://hackerone.com/wellsfargo/thanks/2019) | 2019 |
 | ![Grab](https://img.shields.io/badge/-Grab-green?style=plastic&logo=Grab&logoColor=white) | [Grab](https://hackerone.com/grab/thanks/2022) | 2022 |
 
+### 🏅 Cybersecurity Researcher Achievement 🎗️
+
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<tr><td><a href="https://soc.jakarta.go.id//certificate/view?token=$2y$13$qAdCfcD9FX4p9AEUxawhpO3NGNVfz7m5pDdBFYyOyGmkKRpoa8nxO#"><img width="140px" src="https://i.ibb.co.com/Lt253T6/Pemprov-Jakarta.png"></a></td>
+<td><a href="https://soc.jakarta.go.id//certificate/view?token=$2y$13$qAdCfcD9FX4p9AEUxawhpO3NGNVfz7m5pDdBFYyOyGmkKRpoa8nxO#">Provincial Government of Jakarta Special Capital Region</a><br/></td></tr>
+<tr><td><a href="https://tte.polri.go.id/preview/file/9c4455cd-fa84-4e72-a072-f51335dcca59#L2"><img width="140px" src="https://i.ibb.co.com/cYcsfGC/c1.png"></a></td>
+<td><a href="https://private.pwn0sec.com/">The Regional Police of the Republic of Indonesia</a><br/></td></tr>
+<tr><td><a href="https://private.pwn0sec.com/"><img width="140px" src="https://i.ibb.co.com/Z2KbcH4/kpk1.png"></a></td>
+<td><a href="https://private.pwn0sec.com/">Corruption Eradication Commission of the Republic of Indonesia</a><br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
 
 </br>
 

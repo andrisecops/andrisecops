@@ -1,12 +1,20 @@
-<a href="https://github.com/andrisecops" target="_blank">
-    <img src="https://img.shields.io/github/followers/andrisecops?style=social" alt="GitHub followers" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,vue,angular,flutter,dart,kotlin,materialui,css,sass,tailwind,javascript,nodejs,typescript,python,mysql,mongodb,firebase,gcp,docker,kubernetes,azure,aws,cloudflare,netlify,heroku,postman,appwrite,atom,rust" />
+  </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,githubactions,git,stackoverflow,devto,bots,vscode,idea,figma" />
+  </a>
+</p>
 
-![](./z.png)
+
+![](./68747470733a2f2f692e6962622e636f2f6b6750783731462f4461726b2d53696d706c652d4675747572652d4c696e6b65642d496e2d42616e6e65722d322e706e67.png)
 </a>
 A young person who has high curiosity. Has experience as a Pentester & Digital Strategist for more than 11 years. Currently a Cyber Security Expert for several overseas companies. Really enjoying his current life as a full-time remote worker. These two things are now probably very attached to me personally. Because I have a very high curiosity, I often spend time doing anything that I think can spend my free time. I am currently actively writing about the world of cyber security at Pwn0sec. In addition to having a hobby of writing, I am currently also a Security Pentester in several companies abroad. Starting from an accident, it now officially attracts me to become a Pentester. Being a Pentester makes me free, no need to live monotonously and have to work every day in the office. Basically, I can work anywhere. Yes, I am a full-time remote worker. 💡
 
+[![ANDRI's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrisecops&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📁 Tools
+### 🖿 Open Source Project
 
 Below is a list of tools I've developed, which are designed to assist in various cybersecurity tasks:
 
@@ -15,7 +23,7 @@ Below is a list of tools I've developed, which are designed to assist in various
 | **LFISecOps** | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities. | [GitHub](https://github.com/andrisecops/LFISecOps) |
 | **PwnXSS** |A powerful XSS scanner made in python 3.7 | [GitHub](https://github.com/pwn0sec/PwnXSS.git) |
 
-### 🏆 Hall Of Fame
+### 🛡️ Hall Of Fame
 
 Below is a list of Hall of Fame acknowledgments where my contributions to cybersecurity have been recognized:
 
@@ -26,18 +34,6 @@ Below is a list of Hall of Fame acknowledgments where my contributions to cybers
 | ![WelsFargo](https://img.shields.io/badge/-WelsFargo-brown?style=plastic&logo=WelsFargo&logoColor=white) | [Wells Fargo Bank](https://hackerone.com/wellsfargo/thanks/2019) | 2019 |
 | ![Grab](https://img.shields.io/badge/-Grab-green?style=plastic&logo=Grab&logoColor=white) | [Grab](https://hackerone.com/grab/thanks/2022) | 2022 |
 
-### 🏅 Cybersecurity Researcher Achievement 🎗️
-
-<table>
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<tr><td><a href="https://soc.jakarta.go.id//certificate/view?token=$2y$13$qAdCfcD9FX4p9AEUxawhpO3NGNVfz7m5pDdBFYyOyGmkKRpoa8nxO#"><img width="140px" src="https://i.ibb.co.com/Lt253T6/Pemprov-Jakarta.png"></a></td>
-<td><a href="https://soc.jakarta.go.id//certificate/view?token=$2y$13$qAdCfcD9FX4p9AEUxawhpO3NGNVfz7m5pDdBFYyOyGmkKRpoa8nxO#">Provincial Government of Jakarta Special Capital Region</a><br/></td></tr>
-<tr><td><a href="https://tte.polri.go.id/preview/file/9c4455cd-fa84-4e72-a072-f51335dcca59#L2"><img width="140px" src="https://i.ibb.co.com/cYcsfGC/c1.png"></a></td>
-<td><a href="https://private.pwn0sec.com/">The Regional Police of the Republic of Indonesia</a><br/></td></tr>
-<tr><td><a href="https://private.pwn0sec.com/"><img width="140px" src="https://i.ibb.co.com/Z2KbcH4/kpk1.png"></a></td>
-<td><a href="https://private.pwn0sec.com/">Corruption Eradication Commission of the Republic of Indonesia</a><br/></td></tr>
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-</table>
 
 </br>
 

@@ -18,10 +18,13 @@ A young person who has high curiosity. Has experience as a Pentester & Digital S
 
 Below is a list of tools I've developed, which are designed to assist in various cybersecurity tasks:
 
-| Tool Name | Description | Link |
+| Name | Description | Link |
 |-----------|-------------|------|
-| **LFISecOps** | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities. | [GitHub](https://github.com/andrisecops/LFISecOps) |
+| **LFISecOps** | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities. | [GitHub](https://github.com/andrisecops/LFISec) |
 | **PwnXSS** |A powerful XSS scanner made in python 3.7 | [GitHub](https://github.com/pwn0sec/PwnXSS.git) |
+| **PHPvulnerabilities** |PHP Vulnerability Scanner adalah alat yang dirancang menggunakan API ChatGPT untuk mengidentifikasi kerentanan keamanan dalam aplikasi PHP melalui CVE/CVND. | [GitHub](https://github.com/andrisecops/PHPvulnerabilities) |
+| **Shotrack** |automatic tool untuk menganalisis keamanan IP dan Domain menggunakan API Shodan mengumpulkan informasi tentang IP dan Domain, mengidentifikasi potensi kerentanan terkait versi teknologi yang dipetakan oleh Shodan, dan melakukan pencarian CVE di basis data NVD dan ExploitDB. Selain itu, proyek ini mencari Proof of Concepts (PoC) dari CVE di GitHub. | [GitHub](https://github.com/andrisecops/shotrack) |
+| **Shoxploit** |A powerful XSS scanner made in python 3.7 | [GitHub](https://github.com/andrisecops/shoxploit) |
 
 ### 🛡️ Hall Of Fame
 

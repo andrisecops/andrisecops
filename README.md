@@ -24,7 +24,7 @@ Below is a list of tools I've developed, which are designed to assist in various
 | **PwnXSS** |A powerful XSS scanner made in python 3.7 | [GitHub](https://github.com/pwn0sec/PwnXSS.git) |
 | **PHPvulnerabilities** |PHP Vulnerability Scanner adalah alat yang dirancang menggunakan API ChatGPT untuk mengidentifikasi kerentanan keamanan dalam aplikasi PHP melalui CVE/CVND. | [GitHub](https://github.com/andrisecops/PHPvulnerabilities) |
 | **Shotrack** |automatic tool untuk menganalisis keamanan IP dan Domain menggunakan API Shodan mengumpulkan informasi tentang IP dan Domain, mengidentifikasi potensi kerentanan terkait versi teknologi yang dipetakan oleh Shodan, dan melakukan pencarian CVE di basis data NVD dan ExploitDB. Selain itu, proyek ini mencari Proof of Concepts (PoC) dari CVE di GitHub. | [GitHub](https://github.com/andrisecops/shotrack) |
-| **Shoxploit** |A powerful XSS scanner made in python 3.7 | [GitHub](https://github.com/andrisecops/shoxploit) |
+| **Shoxploit** |Shodan-shoxploit automatic find vulnerabilities CVE within a specific Organization.| [GitHub](https://github.com/andrisecops/shoxploit) |
 
 ### 🛡️ Hall Of Fame
 
